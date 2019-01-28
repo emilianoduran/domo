@@ -1,2 +1,2 @@
 # domo
-prototipo de app
+prototipo de app del menú
